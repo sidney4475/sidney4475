@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and learning code source
 - 🌱 I’m currently learning lua.ex
 - 💞️ I’m looking to collaborate on scripts and dev work in servers cfxre and facepunch rust
-- 📫 How to reach me send me a dm at discord __s.idney.__
+- 📫 How to reach me send me a dm at discord sidney_f12
 - 😄 Pronouns: Boeing AH-64 Apache
 - ⚡ Fun fact: i like to dev and learn so if you have the time it ill be worth it
 
